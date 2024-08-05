@@ -1,0 +1,37 @@
+primero debemos instalr
+
+pip install virtualenv
+
+python -m venv entornovir
+
+
+ruta de instalacion pythons
+C:\Users\Laptop\AppData\Local\Programs\Python\Python312\
+
+Desde CMD
+Accedi a la ruta 
+cd C:\Users\Laptop\Pictures\SWF\Reflex\entornovir\Scripts
+
+y luego ejecute
+activate
+
+
+Luego se instala Reflex
+pip install Reflex
+
+
+ejecuto 
+reflex
+
+
+$ reflex init
+
+
+de las opciones escojo la 3 chat ya no estaba //2 caht gpt clone
+
+//$ pip install openai
+
+ejecute 
+reflex run
+
+
